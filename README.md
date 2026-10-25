@@ -2,8 +2,7 @@
 
 A tiny macOS to-do list with a warm cream-and-brown look that floats above your other windows.
 
-![Uploading image.png…]()
-
+<img width="695" height="416" alt="image" src="https://github.com/user-attachments/assets/f31c0219-c4a3-44ba-85c4-cd1f5997d520" />
 
 ## Features
 
