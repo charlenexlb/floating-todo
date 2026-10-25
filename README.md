@@ -2,6 +2,9 @@
 
 A tiny macOS to-do list with a warm cream-and-brown look that floats above your other windows.
 
+![Uploading image.png…]()
+
+
 ## Features
 
 - Always-on-top window that follows you across Spaces and full-screen apps
